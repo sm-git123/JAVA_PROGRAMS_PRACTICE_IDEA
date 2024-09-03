@@ -8,8 +8,8 @@ public class Count_Occurence_Of_Each_Character_Hashmap_way {
 	    public static void main(String[] args)
 	    {
 	        System.out.println("Inside develop branch-first edit");
-			System.out.println("Inside feature1 branch- First Edit");
-			String str = "GeeksForGeeks";
+		System.out.println("Inside feature1 branch- First Edit");
+		String str = "GeeksForGeeks";
 	        ArrayList<Character> al = new ArrayList<>();
 	        for (int i = 0; i < str.length(); i++) {
 	            al.add(str.charAt(i));
